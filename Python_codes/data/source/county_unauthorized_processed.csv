@@ -1,0 +1,233 @@
+,State,stateFIPS,County,countyFIPS,Total Unauthorized Population
+1,California,6.0,Los Angeles County,6037,1051000.0
+2,Texas,48.0,Harris County,48201,412000.0
+3,Illinois,17.0,Cook County,17031,307000.0
+4,California,6.0,Orange County,6059,271000.0
+5,New York,36.0,Queens County,36081,256000.0
+6,Texas,48.0,Dallas County,48113,247000.0
+7,California,6.0,San Diego County,6073,211000.0
+8,New York,36.0,Kings County,36047,191000.0
+9,California,6.0,Riverside County,6065,163000.0
+10,Arizona,4.0,Maricopa County,4013,158000.0
+11,Florida,12.0,Miami-Dade County,12086,151851.3539851417
+12,California,6.0,San Bernardino County,6071,141000.0
+13,Massachusetts,25.0,Suffolk County,25025,141000.0
+14,California,6.0,Santa Clara County,6085,138000.0
+15,New York,36.0,Bronx County,36005,120000.0
+17,Texas,48.0,Tarrant County,48439,109000.0
+16,California,6.0,Alameda County,6001,109000.0
+18,Nevada,32.0,Clark County,32003,106000.0
+19,Texas,48.0,Hidalgo County,48215,102000.0
+20,Florida,12.0,Broward County,12011,98000.0
+21,New York,36.0,New York County,36061,90000.0
+22,Virginia,51.0,Fairfax County,51059,88000.0
+23,Washington,53.0,King County,53033,86000.0
+24,Maryland,24.0,Montgomery County,24031,85000.0
+25,New Jersey,34.0,Hudson County,34017,84000.0
+26,California,6.0,Fresno County,6019,82000.0
+27,Maryland,24.0,Prince George's County,24033,79000.0
+28,Texas,48.0,Bexar County,48029,77000.0
+30,California,6.0,Kern County,6029,75000.0
+32,Texas,48.0,Travis County,48453,73000.0
+34,Georgia,13.0,Gwinnett County,13135,72000.0
+33,Florida,12.0,Palm Beach County,12099,72000.0
+36,California,6.0,Ventura County,6111,69000.0
+35,California,6.0,Contra Costa County,6013,69000.0
+37,Texas,48.0,El Paso County,48141,67000.0
+38,New Jersey,34.0,Middlesex County,34023,66000.0
+29,California,6.0,Monterey County,6053,65519.432687489054
+39,California,6.0,Sacramento County,6067,64000.0
+40,New York,36.0,Suffolk County,36103,63000.0
+41,New York,36.0,Westchester County,36119,61000.0
+42,New Jersey,34.0,Bergen County,34003,59000.0
+45,New York,36.0,Nassau County,36059,58000.0
+44,New Jersey,34.0,Essex County,34013,58000.0
+43,California,6.0,San Mateo County,6081,58000.0
+46,California,6.0,San Joaquin County,6077,56000.0
+47,North Carolina,37.0,Mecklenburg County,37119,53000.0
+48,Florida,12.0,Orange County,12095,52000.0
+49,New Jersey,34.0,Union County,34039,52000.0
+50,Connecticut,9.0,Fairfield County,9001,51000.0
+51,California,6.0,San Francisco County,6075,49000.0
+52,California,6.0,Tulare County,6107,48000.0
+53,California,6.0,Santa Barbara County,6083,46000.0
+54,Florida,12.0,Hillsborough County,12057,43000.0
+55,Utah,49.0,Salt Lake County,49035,43000.0
+56,New Jersey,34.0,Passaic County,34031,42000.0
+57,Georgia,13.0,Cobb County,13067,40000.0
+59,Pennsylvania,42.0,Philadelphia County,42101,40000.0
+60,Texas,48.0,Cameron County,48061,40000.0
+58,North Carolina,37.0,Wake County,37183,40000.0
+61,Colorado,8.0,Denver County,8031,39000.0
+62,Illinois,17.0,Kane County,17089,38000.0
+63,Texas,48.0,Collin County,48085,38000.0
+65,Virginia,51.0,Prince William County,51153,37000.0
+64,Illinois,17.0,DuPage County,17043,37000.0
+68,Texas,48.0,Fort Bend County,48157,36000.0
+67,Georgia,13.0,DeKalb County,13089,36000.0
+66,California,6.0,Stanislaus County,6099,36000.0
+69,Illinois,17.0,Lake County,17097,35000.0
+72,Oklahoma,40.0,Oklahoma County,40109,34000.0
+71,Minnesota,27.0,Hennepin County,27053,34000.0
+70,Georgia,13.0,Fulton County,13121,34000.0
+73,Michigan,26.0,Wayne County,26163,33000.0
+74,Ohio,39.0,Franklin County,39049,33000.0
+76,Tennessee,47.0,Davidson County,47037,31000.0
+75,California,6.0,Sonoma County,6097,31000.0
+78,Texas,48.0,Webb County,48479,30000.0
+79,Texas,48.0,Denton County,48121,30000.0
+77,Indiana,18.0,Marion County,18097,30000.0
+80,Arizona,4.0,Pima County,4019,29000.0
+81,Wisconsin,55.0,Milwaukee County,55079,28000.0
+83,Florida,12.0,Lee County,12071,27000.0
+82,California,6.0,Merced County,6047,27000.0
+87,Oregon,41.0,Washington County,41067,26000.0
+88,Oregon,41.0,Multnomah County,41051,26000.0
+89,Tennessee,47.0,Shelby County,47157,26000.0
+86,Michigan,26.0,Oakland County,26125,26000.0
+85,Hawaii,15.0,Honolulu County,15003,26000.0
+92,Texas,48.0,Montgomery County,48339,25000.0
+90,Florida,12.0,Collier County,12021,25000.0
+91,New Jersey,34.0,Mercer County,34021,25000.0
+93,Washington,53.0,Snohomish County,53061,25000.0
+94,New Jersey,34.0,Monmouth County,34025,24000.0
+95,Rhode Island,44.0,Providence County,44007,23000.0
+100,Washington,53.0,Yakima County,53077,22000.0
+98,New Jersey,34.0,Morris County,34027,22000.0
+97,Maryland,24.0,Baltimore County,24005,22000.0
+96,Connecticut,9.0,New Haven County,9009,22000.0
+101,California,6.0,Solano County,6095,21000.0
+102,Oklahoma,40.0,Tulsa County,40143,21000.0
+103,Connecticut,9.0,Hartford County,9003,20000.0
+104,Georgia,13.0,Hall County,13139,20000.0
+99,New Mexico,35.0,Bernalillo County,35001,19767.77466264625
+108,North Carolina,37.0,Durham County,37063,19000.0
+107,Illinois,17.0,Will County,17197,19000.0
+106,California,6.0,Imperial County,6025,19000.0
+105,California,6.0,Santa Cruz County,6087,19000.0
+109,Virginia,51.0,Loudoun County,51107,19000.0
+113,Washington,53.0,Pierce County,53053,18000.0
+111,North Carolina,37.0,Guilford County,37081,18000.0
+112,Oregon,41.0,Marion County,41047,18000.0
+110,Nebraska,31.0,Douglas County,31055,18000.0
+116,Georgia,13.0,Clayton County,13063,17000.0
+115,Florida,12.0,Polk County,12105,17000.0
+114,California,6.0,Madera County,6039,17000.0
+31,Colorado,8.0,Arapahoe County,8005,16918.468830946793
+118,Maryland,24.0,Baltimore City,24510,16000.0
+119,Michigan,26.0,Kent County,26081,16000.0
+121,New Jersey,34.0,Somerset County,34035,16000.0
+123,Virginia,51.0,Arlington County,51013,16000.0
+120,Nevada,32.0,Washoe County,32031,16000.0
+122,New Jersey,34.0,Ocean County,34029,16000.0
+31,Colorado,8.0,Jefferson County,8059,15019.196196486542
+124,Florida,12.0,Pinellas County,12103,15000.0
+125,New York,36.0,Richmond County,36085,15000.0
+127,North Carolina,37.0,Forsyth County,37067,15000.0
+126,New York,36.0,Rockland County,36087,15000.0
+130,Virginia,51.0,Alexandria City,51510,15000.0
+129,Texas,48.0,Williamson County,48491,15000.0
+137,New Jersey,34.0,Atlantic County,34001,14000.0
+138,Pennsylvania,42.0,Chester County,42029,14000.0
+135,Missouri,29.0,Jackson County (including other portions of Kansas City),29095,14000.0
+134,Florida,12.0,Duval County,12031,14000.0
+133,Delaware,10.0,New Castle County,10003,14000.0
+139,Utah,49.0,Utah County,49049,14000.0
+131,California,6.0,Marin County,6041,14000.0
+136,New Jersey,34.0,Camden County,34007,14000.0
+132,California,6.0,Kings County,6031,14000.0
+31,Colorado,8.0,Adams County,8001,13332.476981034315
+128,South Carolina,45.0,Greenville County,45045,13287.081137326893
+84,Louisiana,22.0,Jefferson Parish,22051,13075.354000434452
+149,Pennsylvania,42.0,Montgomery County,42091,13000.0
+143,California,6.0,Yolo County,6113,13000.0
+148,Ohio,39.0,Cuyahoga County,39035,13000.0
+147,Maryland,24.0,Anne Arundel County,24003,13000.0
+144,Florida,12.0,Manatee County,12081,13000.0
+140,Arizona,4.0,Yuma County,4027,13000.0
+142,Arkansas,5.0,Benton County,5007,13000.0
+141,Arkansas,5.0,Washington County,5143,13000.0
+151,Alabama,1.0,Jefferson County,1073,12000.0
+155,Massachusetts,25.0,Worcester County,25027,12000.0
+154,Kansas,20.0,Johnson County,20091,12000.0
+152,California,6.0,Napa County,6055,12000.0
+84,Louisiana,22.0,Orleans Parish,22071,11795.036939662605
+153,Colorado,8.0,El Paso County,8041,11591.499495166876
+163,Ohio,39.0,Hamilton County,39061,11000.0
+165,Texas,48.0,Jefferson County,48245,11000.0
+164,Texas,48.0,Brazoria County,48039,11000.0
+159,Georgia,13.0,Whitfield County,13313,11000.0
+162,New Mexico,35.0,Doña Ana County,35013,11000.0
+161,Kentucky,21.0,Fayette County,21067,11000.0
+160,Kansas,20.0,Wyandotte County,20209,11000.0
+158,Florida,12.0,Osceola County,12097,11000.0
+146,Kansas,20.0,Sedgwick County,20173,10866.118545730196
+168,Maryland,24.0,Howard County,24027,10000.0
+166,California,6.0,San Luis Obispo County,6079,10000.0
+173,Texas,48.0,Galveston County,48167,10000.0
+169,Michigan,26.0,Macomb County,26099,10000.0
+172,Texas,48.0,Brazos County,48041,10000.0
+170,Missouri,29.0,St. Louis County,29189,10000.0
+167,Kentucky,21.0,Jefferson County,21111,10000.0
+171,New York,36.0,Orange County,36071,10000.0
+117,Washington,53.0,Benton County,53005,9641.786820285704
+29,California,6.0,San Benito County,6069,9480.567312510944
+31,Colorado,8.0,Douglas County,8035,9048.246247829376
+182,Washington,53.0,Clark County,53011,9000.0
+181,Texas,48.0,Nueces County,48355,9000.0
+179,Pennsylvania,42.0,Allegheny County,42003,9000.0
+177,Michigan,26.0,Washtenaw County,26161,9000.0
+176,California,6.0,Placer County,6061,9000.0
+180,Texas,48.0,McLennan County,48309,9000.0
+156,New Jersey,34.0,Cumberland County,34011,8467.307184114161
+31,Colorado,8.0,Boulder County,8013,8405.149117073852
+31,Colorado,8.0,Weld County,8123,8361.241852436966
+178,North Carolina,37.0,Union County,37179,8167.575339096877
+145,Idaho,16.0,Ada County,16001,8072.858587056876
+185,Georgia,13.0,Forsyth County,13117,8000.0
+183,Florida,12.0,Seminole County,12117,8000.0
+184,Florida,12.0,Sarasota County,12115,8000.0
+188,Virginia,51.0,Virginia Beach City,51810,8000.0
+186,New Jersey,34.0,Burlington County,34005,8000.0
+157,Alabama,1.0,Madison County,1089,7214.23395791051
+193,Texas,48.0,Potter County,48375,7000.0
+192,Texas,48.0,Smith County,48423,7000.0
+191,New York,36.0,Monroe County,36055,7000.0
+190,New York,36.0,Erie County,36029,7000.0
+189,Massachusetts,25.0,Bristol County,25005,7000.0
+194,Virginia,51.0,Chesterfield County,51041,7000.0
+174,Washington,53.0,Grant County,53025,6709.297855397204
+150,South Carolina,45.0,Charleston County,45019,6667.661527797517
+175,California,6.0,Sutter County,6101,4968.9362840826925
+117,Washington,53.0,Franklin County,53021,4491.9527599258545
+11,Florida,12.0,Monroe County,12087,4148.6460148582955
+175,California,6.0,Yuba County,6115,4031.0637159173075
+145,Idaho,16.0,Canyon County,16027,3852.9662830940947
+150,South Carolina,45.0,Berkeley County,45015,3693.6912340018102
+156,New Jersey,34.0,Salem County,34033,3532.6928158858395
+174,Washington,53.0,Kittitas County,53037,3290.702144602795
+117,Washington,53.0,Walla Walla County,53071,2866.2604197884407
+150,South Carolina,45.0,Dorchester County,45035,2638.6472382006727
+187,Texas,48.0,Waller County,48473,2389.403687084392
+99,New Mexico,35.0,Valencia County,35061,2232.2253373537496
+157,Alabama,1.0,Limestone County,1083,1913.5927315959607
+157,Alabama,1.0,Marshall County,1095,1872.1733104935297
+31,Colorado,8.0,Broomfield County and City,8014,1815.6839217360389
+187,Texas,48.0,Wharton County,48481,1797.3076715142997
+128,South Carolina,45.0,Laurens County,45059,1712.9188626731072
+187,Texas,48.0,Matagorda County,48321,1584.8191598637618
+84,Louisiana,22.0,St. Bernard Parish,22087,1428.3052544122686
+146,Kansas,20.0,Butler County,20015,1408.9218668506694
+187,Texas,48.0,Austin County,48015,1298.891712169541
+187,Texas,48.0,Colorado County,48089,929.5777693680056
+178,North Carolina,37.0,Anson County,37007,832.4246609031233
+146,Kansas,20.0,Harvey County,20079,724.9595874191343
+84,Louisiana,22.0,Plaquemines Parish,22075,701.3038054906739
+31,Colorado,8.0,Elbert County,8039,688.730796055951
+153,Colorado,8.0,Teller County,8119,408.5005048331235
+145,Idaho,16.0,Payette County,16075,401.4913941169492
+145,Idaho,16.0,Gem County,16045,303.61204668891423
+31,Colorado,8.0,Clear Creek County,8019,249.941588601995
+145,Idaho,16.0,Owyhee County,16073,198.1893345849731
+145,Idaho,16.0,Washington County,16087,170.882354458193
+31,Colorado,8.0,Gilpin County,8047,160.8644677981706
